@@ -17,7 +17,7 @@ class WordbookClient:
         self._API_PATH_DEFINITIONS = "/definitions"
         # required header for api requests
         self._headers = {
-            "User-Agent": "Dot.Net-Wordbook-Client/1.0",
+            "User-Agent": "Python-Wordbook-Library/1.0",
             "Accept": "application/json"
         }
 
